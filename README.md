@@ -1,16 +1,53 @@
-## Hi there 👋
+# 👋 Hola, soy KeruDWL
 
-<!--
-**KeruDWL/KeruDWL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Estudiante / entusiasta de **Ciberseguridad y Pentesting**, enfocado en
+pruebas de penetración web, análisis de vulnerabilidades y escalamiento de privilegios
+en entornos controlados.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Áreas de interés
+- Pentesting Web
+- Enumeración y explotación
+- Privilege Escalation (Linux)
+- Capture The Flag (CTF)
+- Hack The Box
+
+---
+
+## 🛠️ Herramientas y tecnologías
+- Linux / Bash
+- Nmap, ffuf, Burp Suite
+- Python
+- SQL, SQLite
+- Git & GitHub
+
+---
+
+## 📂 Writeups y proyectos
+🔹 **Hack The Box – Writeups**  
+📁 Repositorio principal con documentación técnica y reportes PDF:
+
+👉 https://github.com/KeruDWL/HackTheBox-Writeups
+
+Máquinas documentadas:
+- CodePartTwo ✅
+
+---
+
+## 📄 Reportes técnicos
+- Reportes en PDF
+- Exploits documentados
+- Enfoque educativo y profesional
+
+---
+
+## ⚠️ Aviso
+Todo el contenido publicado tiene fines **educativos** y fue realizado
+exclusivamente en laboratorios controlados (Hack The Box).
+
+---
+
+📫 **Contacto**
+- GitHub: https://github.com/KeruDWL
+- Hack The Box: KeruDWL
