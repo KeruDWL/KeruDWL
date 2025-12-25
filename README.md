@@ -1,15 +1,16 @@
 # KeruDWL
 
-Pentesting y ciberseguridad con enfoque en análisis de vulnerabilidades,
-explotación y escalamiento de privilegios en sistemas Linux y aplicaciones web.
+Pentesting y ciberseguridad con enfoque en seguridad ofensiva y defensiva.
+Interés y formación continua en el análisis de seguridad, evaluación de riesgos
+y comprensión de vectores de ataque en distintos entornos tecnológicos.
 
-Experiencia documentando pruebas de penetración en entornos controlados
-como Hack The Box, priorizando reportes técnicos claros, estructurados
-y reproducibles.
+Experiencia documentando pruebas de penetración en laboratorios controlados
+como Hack The Box, con énfasis en metodologías, buenas prácticas y reportes
+técnicos claros y reproducibles.
 
 ## Aviso
 Todo el contenido publicado tiene fines educativos y fue desarrollado
-exclusivamente en laboratorios autorizados.
+exclusivamente en entornos de laboratorio autorizados.
 
 ## Enlaces
 Hack The Box: KeruDWL
