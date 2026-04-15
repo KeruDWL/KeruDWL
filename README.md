@@ -1,35 +1,39 @@
 <h1 align="center">KeruDWL</h1>
 
 <p align="center">
-  <strong>Pentesting</strong> | <strong>Ciberseguridad</strong> | <strong>Writeups técnicos</strong>
-</p>
-
-<p align="center">
-  Seguridad ofensiva y defensiva, documentación técnica y aprendizaje continuo en entornos de laboratorio.
+  Ciberseguridad | Pentesting | Documentación técnica
 </p>
 
 ---
 
-## Perfil
+## Acerca del perfil
 
-Me enfoco en el estudio práctico de la **ciberseguridad**, especialmente en procesos de **reconocimiento**, **análisis de vulnerabilidades**, **explotación controlada** y **escalada de privilegios** dentro de laboratorios autorizados.
+Espacio orientado a la publicación de contenido técnico relacionado con **ciberseguridad**, **pentesting** e investigación aplicada en entornos de laboratorio.
 
-A través de este perfil comparto documentación técnica, proyectos personales y writeups orientados a fortalecer la comprensión de vectores de ataque, metodologías de análisis y buenas prácticas aplicadas al ámbito ofensivo y defensivo.
+El perfil integra documentación de ejercicios prácticos, writeups técnicos y proyectos enfocados en el análisis de vulnerabilidades, evaluación de vectores de ataque y comprensión de mecanismos de seguridad desde una perspectiva ofensiva y defensiva.
 
-## Áreas de interés
+## Especialización
 
-- Pentesting en laboratorios controlados
+- Pentesting en entornos controlados
 - Análisis técnico de vulnerabilidades
-- Seguridad ofensiva y defensiva
-- Documentación reproducible de procesos técnicos
-- Herramientas y proyectos relacionados con ciberseguridad
+- Reconocimiento y enumeración de servicios
+- Explotación controlada y escalada de privilegios
+- Documentación técnica clara y estructurada
+- Desarrollo de proyectos orientados a seguridad
 
-## Aviso de uso
+## Proyectos principales
 
-Todo el contenido de este perfil se comparte únicamente con fines educativos.  
-Las pruebas, técnicas y procedimientos aquí documentados fueron ejecutados en entornos autorizados y diseñados para práctica de seguridad.
+### HackTheBox-Writeups
+Colección de writeups técnicos elaborados sobre laboratorios de práctica, documentando metodologías, hallazgos y procedimientos relevantes para el análisis de seguridad.
 
-## Enlaces
+### Zyrex
+Herramienta de escritorio enfocada en la sanitización de metadatos en archivos, con orientación a privacidad, tratamiento seguro de información y procesamiento local.
 
-- [Sitio web](https://kerudwl.com/)
-- [Hack The Box](https://app.hackthebox.com/public/users/2830567)
+## Declaración de uso
+
+El contenido compartido en este perfil es de carácter educativo y ha sido desarrollado únicamente en entornos autorizados para práctica, análisis y formación técnica.
+
+## Enlaces de referencia
+
+- [Sitio web oficial](https://kerudwl.com/)
+- [Perfil en Hack The Box](https://app.hackthebox.com/public/users/2830567)
