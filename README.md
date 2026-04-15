@@ -15,9 +15,6 @@ El perfil integra documentación de ejercicios prácticos, writeups técnicos y 
 ## Especialización
 
 - Pentesting en entornos controlados
-- Análisis técnico de vulnerabilidades
-- Reconocimiento y enumeración de servicios
-- Explotación controlada y escalada de privilegios
 - Documentación técnica clara y estructurada
 - Desarrollo de proyectos orientados a la ciberseguridad y hacking ético
 
