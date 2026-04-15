@@ -32,5 +32,5 @@ El contenido compartido en este perfil es de carácter educativo y ha sido desar
 
 ## Enlaces de referencia
 
-- [Sitio web oficial](https://kerudwl.com/)
+- [KeruDWL | Ciberseguridad y Hacking Ético](https://kerudwl.com/)
 - [Perfil en Hack The Box](https://app.hackthebox.com/public/users/2830567)
