@@ -24,14 +24,6 @@ A través de este perfil comparto documentación técnica, proyectos personales 
 - Documentación reproducible de procesos técnicos
 - Herramientas y proyectos relacionados con ciberseguridad
 
-## Repositorios destacados
-
-### HackTheBox-Writeups
-Repositorio enfocado en la documentación técnica de máquinas y desafíos de laboratorio, detallando cada fase del proceso: reconocimiento, enumeración, explotación, post-explotación y escalada de privilegios.
-
-### Zyrex
-Proyecto de escritorio para la sanitización de metadatos en archivos, orientado a la privacidad, el tratamiento de información sensible y el procesamiento local de archivos.
-
 ## Aviso de uso
 
 Todo el contenido de este perfil se comparte únicamente con fines educativos.  
