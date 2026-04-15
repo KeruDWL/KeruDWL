@@ -1,14 +1,14 @@
 <h1 align="center">KeruDWL</h1>
 
 <p align="center">
-  Ciberseguridad | Pentesting | Documentación técnica
+  Ciberseguridad | Hacking Ético
 </p>
 
 ---
 
 ## Acerca del perfil
 
-Espacio orientado a la publicación de contenido técnico relacionado con **ciberseguridad**, **pentesting** e investigación aplicada en entornos de laboratorio.
+Espacio orientado a la publicación de contenido técnico relacionado con **ciberseguridad**, **hacking ético** e investigación aplicada en entornos de laboratorio.
 
 El perfil integra documentación de ejercicios prácticos, writeups técnicos y proyectos enfocados en el análisis de vulnerabilidades, evaluación de vectores de ataque y comprensión de mecanismos de seguridad desde una perspectiva ofensiva y defensiva.
 
@@ -19,12 +19,9 @@ El perfil integra documentación de ejercicios prácticos, writeups técnicos y 
 - Reconocimiento y enumeración de servicios
 - Explotación controlada y escalada de privilegios
 - Documentación técnica clara y estructurada
-- Desarrollo de proyectos orientados a seguridad
+- Desarrollo de proyectos orientados a la ciberseguridad y hacking ético
 
 ## Proyectos principales
-
-### HackTheBox-Writeups
-Colección de writeups técnicos elaborados sobre laboratorios de práctica, documentando metodologías, hallazgos y procedimientos relevantes para el análisis de seguridad.
 
 ### Zyrex
 Herramienta de escritorio enfocada en la sanitización de metadatos en archivos, con orientación a privacidad, tratamiento seguro de información y procesamiento local.
